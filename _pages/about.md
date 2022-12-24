@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Statistics at Purdue Univerisity. My current research involves sparse PCA, information theory and graph theory. I'm supervised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/). <br>
+I'm a PhD student in the Department of Statistics at Purdue Univerisity. My current research involves sparse PCA, information theory and graph theory. I'm supervised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/).
 Before joining Purdue, I obtained MS in Statistics at Seoul National University, supervised by [Prof. Joong-Ho Won](https://won-j.github.io/).
 
-Education
+### Education
 
 * PhD in Statistics, Purdue University, 2023 (expected)
 * MS in Statistics, Seoul National University, 2018
