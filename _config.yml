@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Hanbyul Lee"
 title_separator          : "-"
 name                     : &name "Hanbyul Lee"
-description              : &description "personal description"
-url                      : https://hlee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD candidate in Statistics"
+url                      : https://hanbyul-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hlee/academicpages.github.io"
+repository               : "hanbyul-lee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
