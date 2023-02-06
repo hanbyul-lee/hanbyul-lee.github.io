@@ -16,7 +16,7 @@ I am interested in the problems of differential privacy and federated learning a
 I'm supervised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/).
 Before joining Purdue, I obtained MS in Statistics at Seoul National University, supervised by [Prof. Joong-Ho Won](https://won-j.github.io/).
 
-My first name is pronounced as /hɑnbil/. :)
+My first name is pronounced as /hɑnbil/. :) It means big star in Korean.
 
 ### Education
 
