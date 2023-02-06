@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+[**Support Recovery in Sparse PCA with Non-Random Missing Data**](https://arxiv.org/abs/2302.01535)
+<br>
+*<ins>Hanbyul Lee</ins>, Qifan Song, Jean Honorio*
+<br>
+Under Review
+
 
 [**Support Recovery in Sparse PCA with Incomplete Data**](https://openreview.net/forum?id=x5ysKCMXR5s)
 <br>
