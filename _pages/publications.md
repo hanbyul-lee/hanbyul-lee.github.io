@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+[**Matrix Completion from General Deterministic Sampling Patterns**](https://arxiv.org/abs/2306.02283)
+<br>
+*<ins>Hanbyul Lee</ins>, Rahul Mazumder, Qifan Song, Jean Honorio*
+<br>
+Under Review
+
+
 [**Support Recovery in Sparse PCA with Non-Random Missing Data**](https://arxiv.org/abs/2302.01535)
 <br>
 *<ins>Hanbyul Lee</ins>, Qifan Song, Jean Honorio*
@@ -12,11 +19,12 @@ author_profile: true
 Under Review
 
 
-[**Support Recovery in Sparse PCA with Incomplete Data**](https://openreview.net/forum?id=x5ysKCMXR5s)
+[**Support Recovery in Sparse PCA with Incomplete Data**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/af050c48a0d8162e46b3d1952e7e374f-Abstract-Conference.html)
 <br>
 *<ins>Hanbyul Lee</ins>, Qifan Song, Jean Honorio*
 <br>
 Advances in Neural Information Processing Systems (NeurIPS), 2022
+
 
 [**On the Fundamental Limits of Exact Inference in Structured Prediction**](https://dl.acm.org/doi/abs/10.1109/ISIT50566.2022.9834614)
 <br>
