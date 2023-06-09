@@ -23,3 +23,7 @@ My first name is pronounced as /hɑnbil/. :) It means big star in Korean.
 * PhD in Statistics, Purdue University, 2023 (expected)
 * MS in Statistics, Seoul National University, 2018
 * BS in Statistics / BA in Media and Communication, Seoul National University, 2016
+
+### Academic Service
+
+* Conference Reviewer: NeurIPS 2023, ICML 2023
