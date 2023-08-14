@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**Matrix Completion from General Deterministic Sampling Patterns**](https://arxiv.org/abs/2306.02283)
+<!-- [**Matrix Completion from General Deterministic Sampling Patterns**](https://arxiv.org/abs/2306.02283)
 <br>
 *<ins>Hanbyul Lee</ins>, Rahul Mazumder, Qifan Song, Jean Honorio*
 <br>
 Under Review
-
+ -->
 
 [**Support Recovery in Sparse PCA with Non-Random Missing Data**](https://arxiv.org/abs/2302.01535)
 <br>
