@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanbyul Lee"
 title_separator          : "-"
 name                     : &name "Hanbyul Lee"
-description              : &description "Postdoctoral researcher at MSKCC"
+description              : &description "Postdoc at MSKCC"
 url                      : https://hanbyul-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanbyul-lee.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hanbyul Lee"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at MSKCC"
+  bio              : "Postdoc at MSKCC"
   location         : 
   employer         :
   pubmed           : 
