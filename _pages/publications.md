@@ -12,11 +12,11 @@ author_profile: true
 Under Review
  -->
 
-[**Support Recovery in Sparse PCA with Non-Random Missing Data**](https://arxiv.org/abs/2302.01535)
+[**Support Recovery in Sparse PCA with General Missing Data**](https://proceedings.mlr.press/v244/lee24a.html)
 <br>
 *<ins>Hanbyul Lee</ins>, Qifan Song, Jean Honorio*
 <br>
-Under Review
+Uncertainty in Artificial Intelligence (UAI), 2024
 
 
 [**Support Recovery in Sparse PCA with Incomplete Data**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/af050c48a0d8162e46b3d1952e7e374f-Abstract-Conference.html)
