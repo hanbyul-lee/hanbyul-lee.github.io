@@ -14,7 +14,7 @@ Under Review
 
 [**Mapping disease critical spatially variable gene programs by integrating spatial transcriptomics with human genetics**](https://www.biorxiv.org/content/10.1101/2025.09.24.678397v1)
 <br>
-*<ins>Hanbyul Lee</ins>, Haochen Sun, Xuewei Cao, Berke Karaahmet, Zhijian Li, Hans Ulrich-Klein, Mariko Taga, Gao Wang, Philip L. De Jager, David A. Bennett, Luca Pinello, Xin Jin, Rahul Mazumder, Kushal K. Dey*
+*<ins>Hanbyul Lee</ins>\*, Haochen Sun\*, Xuewei Cao, Berke Karaahmet, Zhijian Li, Hans Ulrich-Klein, Mariko Taga, Gao Wang, Philip L. De Jager, David A. Bennett, Luca Pinello, Xin Jin, Rahul Mazumder, Kushal K. Dey*
 <br>
 BioRxiv, 2025
 
