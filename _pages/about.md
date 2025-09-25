@@ -8,22 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Department of Statistics at Purdue Univerisity. 
-I have broad interests in the statistical foundation of machine learning, and my current research involves incomplete data analysis, dimension reduction and variable selection. 
-I have particularly focused on the analysis of structurally missing data based on graph theory, which is motivated by the fact that data missing pattern is usually unknown and not at random in real world applications.
-I am interested in the problems of differential privacy and federated learning as well.
-
-I'm supervised by [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/).
-Before joining Purdue, I obtained MS in Statistics at Seoul National University, supervised by [Prof. Joong-Ho Won](https://won-j.github.io/).
+I am a postdoctoral researcher at Memorial Sloan Kettering Cancer Center, working primarily with [Prof. Kushal K. Dey](https://www.mskcc.org/research/ski/labs/kushal-dey) and secondarily with [Prof. Rahul Mazumder](https://www.mit.edu/~rahulmaz/). 
+My research focuses on developing statistical methods to analyze spatial transcriptomics and identify disease-informative gene programs. 
+I obtained my PhD in Statistics from Purdue University under the joint supervision of [Prof. Jean Honorio](https://www.cs.purdue.edu/homes/jhonorio/) and [Prof. Qifan Song](https://www.stat.purdue.edu/~qfsong/). 
+Before that, I earned an MS in Statistics at Seoul National University, supervised by [Prof. Joong-Ho Won](https://won-j.github.io/). 
 
 My first name is pronounced as /hɑnbil/. :) It means big star in Korean.
-
-### Education
-
-* PhD in Statistics, Purdue University, 2023 (expected)
-* MS in Statistics, Seoul National University, 2018
-* BS in Statistics / BA in Media and Communication, Seoul National University, 2016
-
-### Academic Service
-
-* Conference Reviewer: NeurIPS 2023, ICML 2023
