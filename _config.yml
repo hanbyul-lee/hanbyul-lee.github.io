@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanbyul Lee"
 title_separator          : "-"
 name                     : &name "Hanbyul Lee"
-description              : &description "PhD candidate in Statistics"
+description              : &description "Postdoctoral researcher at MSKCC"
 url                      : https://hanbyul-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanbyul-lee.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hanbyul Lee"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Statistics"
+  bio              : "Postdoctoral researcher at MSKCC"
   location         : 
   employer         :
   pubmed           : 
-  email            : "lee3078@purdue.edu"
+  email            : "leeh16@mskcc.org"
   googlescholar    : "https://scholar.google.com/citations?user=p6TeWZQAAAAJ&hl=ko"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
